@@ -1,0 +1,10 @@
+C:\Users\x\source\repos\Ejercicio3_Cap4_WinForm_Clase\Ejercicio3_Cap4_WinForm_Clase\bin\Debug\Ejercicio3_Cap4_WinForm_Clase.exe.config
+C:\Users\x\source\repos\Ejercicio3_Cap4_WinForm_Clase\Ejercicio3_Cap4_WinForm_Clase\bin\Debug\Ejercicio3_Cap4_WinForm_Clase.exe
+C:\Users\x\source\repos\Ejercicio3_Cap4_WinForm_Clase\Ejercicio3_Cap4_WinForm_Clase\bin\Debug\Ejercicio3_Cap4_WinForm_Clase.pdb
+C:\Users\x\source\repos\Ejercicio3_Cap4_WinForm_Clase\Ejercicio3_Cap4_WinForm_Clase\obj\Debug\Ejercicio3_Cap4_WinForm_Clase.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\Ejercicio3_Cap4_WinForm_Clase\Ejercicio3_Cap4_WinForm_Clase\obj\Debug\Ejercicio3_Cap4_WinForm_Clase.Form1.resources
+C:\Users\x\source\repos\Ejercicio3_Cap4_WinForm_Clase\Ejercicio3_Cap4_WinForm_Clase\obj\Debug\Ejercicio3_Cap4_WinForm_Clase.Properties.Resources.resources
+C:\Users\x\source\repos\Ejercicio3_Cap4_WinForm_Clase\Ejercicio3_Cap4_WinForm_Clase\obj\Debug\Ejercicio3_Cap4_WinForm_Clase.csproj.GenerateResource.cache
+C:\Users\x\source\repos\Ejercicio3_Cap4_WinForm_Clase\Ejercicio3_Cap4_WinForm_Clase\obj\Debug\Ejercicio3_Cap4_WinForm_Clase.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\Ejercicio3_Cap4_WinForm_Clase\Ejercicio3_Cap4_WinForm_Clase\obj\Debug\Ejercicio3_Cap4_WinForm_Clase.exe
+C:\Users\x\source\repos\Ejercicio3_Cap4_WinForm_Clase\Ejercicio3_Cap4_WinForm_Clase\obj\Debug\Ejercicio3_Cap4_WinForm_Clase.pdb
